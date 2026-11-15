@@ -66,7 +66,7 @@ aiobotocore                          3.7.0                                      
 aiocentriconnect                     0.2.3                                                    python                            
 aiocoap                              0.4.17                                                   python                            
 aiocomelit                           3.0.0                                                    python                            
-aioconsole                           0.8.2                                                    python                            
+aioconsole                           0.9.0                                                    python                            
 aiodhcpwatcher                       1.2.7                                                    python                            
 aiodiscover                          3.3.2                                                    python                            
 aiodns                               4.0.4                                                    python                            
@@ -428,7 +428,7 @@ c-ares                               1.34.9-r0                                  
 ca-certificates                      20261020-r0                                              apk                               
 ca-certificates-bundle               20261020-r0                                              apk                               
 cached-ipaddress                     1.1.2                                                    python                            
-cachetools                           7.3.0                                                    python                            
+cachetools                           7.3.2                                                    python                            
 caldav                               3.5.0a0                                                  python                            
 camino                               1.2.2                                                    rust-crate      (+1 duplicate)    
 cap-primitives                       4.0.3                                                    rust-crate      (+1 duplicate)    
@@ -523,7 +523,7 @@ coreutils                            9.11-r0                                    
 coreutils-env                        9.11-r0                                                  apk                               
 coreutils-fmt                        9.11-r0                                                  apk                               
 coreutils-sha512sum                  9.11-r0                                                  apk                               
-coverage                             7.17.2                                                   python                            
+coverage                             7.17.3                                                   python                            
 cpio-archive                         0.10.0                                                   rust-crate                        
 cpubits                              0.1.1                                                    rust-crate                        
 cpufeatures                          0.2.17                                                   rust-crate      (+2 duplicates)   
@@ -979,7 +979,7 @@ httplib2                             0.32.1                                     
 httpx                                0.28.1                                                   python                            
 httpx-retries                        0.6.0                                                    python                            
 httpx-sse                            0.4.3                                                    python                            
-httpx-ws                             0.9.0                                                    python                            
+httpx-ws                             0.10.0                                                   python                            
 httpx2                               2.14.0                                                   python                            
 huawei-lte-api                       1.11.0                                                   python                            
 hueble                               2.3.0                                                    python                            
@@ -1211,7 +1211,7 @@ libdvdcss                            1.4.3-r0                                   
 libdvdnav                            6.1.1-r1                                                 apk                               
 libdvdread                           6.1.3-r2                                                 apk                               
 libeconf                             0.8.3-r0                                                 apk                               
-libecpg                              18.6-r0                                                  apk                               
+libecpg                              18.7-r0                                                  apk                               
 libedit                              20260508.3.1-r1                                          apk                               
 libexpat                             2.10.0-r0                                                apk                               
 libffi                               3.5.2-r1                                                 apk                               
@@ -1257,7 +1257,8 @@ libpcap                              1.10.7-r0                                  
 libpciaccess                         0.19-r0                                                  apk                               
 libplacebo                           7.360.1-r0                                               apk                               
 libpng                               1.6.59-r0                                                apk                               
-libpq                                18.6-r0                                                  apk             (+1 duplicate)    
+libpq                                18.6-r0                                                  apk                               
+libpq                                18.7-r0                                                  apk                               
 libproc2                             4.0.6-r0                                                 apk                               
 libpsl                               0.21.5-r3                                                apk                               
 libpulse                             17.0-r7                                                  apk                               
@@ -1329,7 +1330,7 @@ log                                  0.4.27                                     
 log                                  0.4.29                                                   rust-crate      (+1 duplicate)    
 log                                  0.4.34                                                   rust-crate                        
 logfury                              1.0.1                                                    python                            
-loguru                               0.7.3                                                    python                            
+loguru                               0.8.0                                                    python                            
 lojack-api                           0.7.2                                                    python                            
 lomond                               0.3.4                                                    python                            
 london-tube-status                   0.7                                                      python                            
@@ -1742,7 +1743,7 @@ pydaikin                             2.22.1                                     
 pydanfossair                         1.0.0                                                    python                            
 pydantic                             2.14.1                                                   python                            
 pydantic-core                        2.50.1                                                   python                            
-pydantic-settings                    2.16.2                                                   python                            
+pydantic-settings                    2.16.3                                                   python                            
 pydantic-xml                         2.22.0                                                   python                            
 pydeako                              0.6.0                                                    python                            
 pydeconz                             120                                                      python                            
@@ -2332,7 +2333,7 @@ solyx-energy-api-client              0.2.0                                      
 sonos-websocket                      0.2.0                                                    python                            
 sord-libs                            0.16.22-r0                                               apk                               
 sortedcontainers                     2.4.0                                                    python                            
-soupsieve                            4.1                                                      python                            
+soupsieve                            4.1.1                                                    python                            
 soxr                                 0.1.3-r7                                                 apk                               
 spdx                                 0.13.5                                                   rust-crate      (+1 duplicate)    
 speak2mary                           1.4.0                                                    python                            
@@ -2368,7 +2369,7 @@ statsd                               3.2.1                                      
 stdlib                               go1.27.3                                                 go-module                         
 steamloop                            1.2.1                                                    python                            
 steamodd                             5.0                                                      python                            
-stevedore                            5.9.1                                                    python                            
+stevedore                            5.10.0                                                   python                            
 stookwijzer                          1.6.1                                                    python                            
 streamlabswater                      1.0.1                                                    python                            
 strip-ansi-escapes                   0.2.1                                                    rust-crate      (+1 duplicate)    
